@@ -19,3 +19,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 - GitHub continues to improve repository guidance with clearer docs and workflow examples for new contributors.
 - Copilot updates are increasingly focused on practical coding help across editors, CLI tools, and automation tasks.
+
+## Latest GitHub Updates
+- Added new automation rules for workflows using official resources.
+- Reference context provided by awesome-copilot.github.com.
